@@ -1,0 +1,25 @@
+body {
+    background: darkgray
+}
+
+.main {
+    background: white;
+    height: auto;
+    margin: auto;
+}
+
+input {
+    width: auto;
+}
+
+label {
+    display: block;
+}
+
+.material {
+    display: block;
+}
+
+.unit {
+    display: inline;
+}
